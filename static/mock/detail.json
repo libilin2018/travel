@@ -1,0 +1,82 @@
+{
+    "ret": true,
+    "data": {
+      "sightName": "大连圣亚海洋世界(AAAA景区)",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_600x330_bf9c4904.jpg",
+      "commentsNum": 27,
+      "gallaryImgs": [
+        "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_800x800_70debc93.jpg",
+        "http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_800x800_9ef05ee7.png"
+      ],
+      "categoryList": [
+        {
+          "title": "成人票",
+          "children": [
+            {
+              "title": "成人三馆联票",
+              "children": [
+                {
+                  "title": "成人三馆联票 - 某一连锁店销售",
+                  "children": [{
+                    "title": "成人三馆联票 - 某一连锁店销售 - 特教"
+                  }]
+                }
+              ]
+            },
+            {
+              "title": "成人五馆联票"
+            }
+          ]
+        },
+        {
+          "title": "学生票"
+        },
+        {
+          "title": "儿童票"
+        },
+        {
+          "title": "特惠票"
+        }
+      ],
+      "userComment": [{
+        "name": "billy",
+        "date": "2018-11-14",
+        "desc": "长隆动物园的服务态度真心棒，去过那么多动物园。这个态度真的是超级超级赞。每段路都有指引人员！当看到我们看着地图东张西望的找路，工作人员直接1走到你面前主动棒我们指引，那种热情感觉恨不得带我们过去一样！哈哈，，推荐大家去长隆哦",
+        "commentImgs": [
+          "https://imgs.qunarzz.com/piao/fusion/1811/f1/6bdd59362a5f402.jpg_228x168_ec4ef2de.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/59/abd12fb77fcaa02.jpg_228x168_5bf17702.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/3c/d9cb7c92d6cd6402.jpg_228x168_3fced734.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/d2/f8dc144f8b4ec302.jpg_228x168_1cf4b8f2.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/22/0195e2f8042c4f02.jpg_228x168_61500eca.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/fd/3000c5b7d077c202.jpg_228x168_62620e86.jpg"
+        ],
+        "galleryImgs": [
+          "https://imgs.qunarzz.com/piao/fusion/1811/f1/6bdd59362a5f402.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/59/abd12fb77fcaa02.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/3c/d9cb7c92d6cd6402.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/d2/f8dc144f8b4ec302.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/22/0195e2f8042c4f02.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/fd/3000c5b7d077c202.jpg"
+        ]
+      }, {
+        "name": "billy",
+        "date": "2018-11-14",
+        "desc": "去的时候刚好台风天，以为会去不成了，没想到那天刚好出☀️没☔️。#服务#动物园里面的引导员跟热情，遇到问题问他们都能很热情的帮你们解答。#行程#我们上午是先去自驾游的，去的时候☀️当空照，看到了很多动物，小朋友都看的不想走了ԅ(¯ㅂ¯ԅ)。",
+        "commentImgs": [
+          "https://imgs.qunarzz.com/piao/fusion/1809/ee/7e551afcd1d5a902.jpg_228x168_70f0f60e.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1809/8d/ede64d570d09c602.jpg_228x168_401c5e50.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1809/9a/4a5f8215871e1f02.jpg_228x168_f24255b9.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1809/74/beeebe6e7b3adc02.jpg_228x168_13fe43f3.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1809/74/beeebe6e7b3adc02.jpg_228x168_13fe43f3.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1809/3d/eb3cb8a034f87b02.jpg_228x168_ee94a8d3.jpg"
+        ],
+        "galleryImgs": [
+          "https://imgs.qunarzz.com/piao/fusion/1811/59/abd12fb77fcaa02.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/3c/d9cb7c92d6cd6402.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/d2/f8dc144f8b4ec302.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/22/0195e2f8042c4f02.jpg",
+          "https://imgs.qunarzz.com/piao/fusion/1811/fd/3000c5b7d077c202.jpg"
+        ]
+      }]
+    }
+  }
